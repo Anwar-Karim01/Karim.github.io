@@ -15,5 +15,5 @@ I leverage my expertise in neural networks, word embeddings, and data visualizat
 
 ## Artifacts
 
-1. [Visualizing Neural Networks](artifacts/neural-networks.md)  
-2. [Exploring Word Embeddings](artifacts/embeddings.md)  
+1. [Visualizing Neural Networks](artifact/neural-networks.md)  
+2. [Exploring Word Embeddings](artifact/embeddings.md)  
