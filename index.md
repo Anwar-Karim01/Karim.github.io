@@ -16,5 +16,5 @@ I leverage my expertise in neural networks, word embeddings, and data visualizat
 ## Artifacts
 
 1. [Visualizing Neural Networks](artifact/neural-networks.md)  
-2. [ Neural Networks Presentation](presentation/Neural_Network_Presentation.pptx)  
+2. [ Neural Networks Presentation](presentation/Neural_Network_Presentation.pdf)  
 
