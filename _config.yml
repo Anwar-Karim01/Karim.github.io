@@ -1,0 +1,5 @@
+title: "Mohammad Anwar Karim Portfolio"
+description: "AI & ML Artifacts by Mohammad Anwar Karim"
+theme: minima              # simple built-in theme
+plugins:
+  - jekyll-feed
