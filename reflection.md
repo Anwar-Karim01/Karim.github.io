@@ -1,4 +1,4 @@
-#Reflection on Learning Experience and Artifact Creation
+# Reflection on Learning Experience and Artifact Creation
 
 Exploring neural networks with the TensorFlow Neural Network Playground was both enjoyable and informative. Hands-on experimentation allowed me to see how modifications in layers, neurons, activation functions, and learning rates affected a model's performance. This participatory approach helped to consolidate my comprehension of fundamental concepts like weights, loss functions, and optimization techniques.
 
