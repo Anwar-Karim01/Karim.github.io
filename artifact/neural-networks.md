@@ -20,4 +20,4 @@ TensorFlow Playground, PowerPoint, Canva
 Demonstrates my ability to translate abstract ML concepts into clear, visual artifacts.
 
 <!-- Embed screenshots -->
-![Playground Screenshot](/assets/images/nn_playground.png)
+![Playground Screenshot](/assets/images/image1.png)
